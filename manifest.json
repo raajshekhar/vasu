@@ -1,0 +1,15 @@
+{
+    "name": "Vasu Stores",
+    "short_name": "Vasu",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "red",
+    "description": "A new app.",
+    "icons" : [
+        {
+            "src": "./vlogo.png",
+            "sizes": "512*512",
+            "type": "image/png"
+        }
+    ]
+}

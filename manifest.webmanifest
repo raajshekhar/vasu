@@ -47,6 +47,6 @@
           }
     ],
     "start_url": "/",
-    "scope": "/index.html",
+    "scope": "/",
     "theme_color": "#000000"
 }

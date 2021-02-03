@@ -11,5 +11,13 @@
             "sizes": "512*512",
             "type": "image/png"
         }
-    ]
+    ],
+    "shortcuts": [
+    {
+      "name": "How's weather today?",
+      "short_name": "Today",
+      "description": "View weather information for today",
+      "url": "/?source=pwa",
+      "icons": [{ "src": "./vlogo.png", "sizes": "192x192" }]
+    }]
 }
